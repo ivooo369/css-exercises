@@ -13,9 +13,6 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  display: flex;
-  align-self: center;
-  justify-self: center;
 }
 
 ul {
